@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Qi Fan's Group - Join us"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

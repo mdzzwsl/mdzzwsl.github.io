@@ -5,6 +5,15 @@
   number_educ: 1
   education1: Master Leiden University
 
+- name: Haofan Wang
+  photo: ilse.jpeg
+  info: Ph.D. candidate (co-supervised)
+  # email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+  education2: MS (2019-2022), Chengdu University of Information Technology
+  education3: BS (2015-2019), Southwest Jiaotong University
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
