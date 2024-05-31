@@ -30,6 +30,21 @@
   number_educ: 1
   education1: Ph.D. candidate, Sun Yat-sen University
 
+# 博士一年级
+- name: Jingyu Li
+  photo: jinyuli.png
+  info: Ph.D. candidate (co-supervised)
+  # email: lijy359@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+- name: Yuqi Zhu
+  photo: yuqizhu.png
+  info: Ph.D. candidate (co-supervised)
+  # email: zhuyq68@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
 # 研究生三年级
 - name: Siting Li
   photo: sitingli.png
@@ -46,19 +61,13 @@
   education1: M.S. candidate, Sun Yat-sen University
 
 # 研究生二年级
-- name: Jingyu Li
-  photo: jinyuli.png
-  info: Ph.D. candidate (co-supervised)
-  # email: lijy359@mail2.sysu.edu.cn
-  number_educ: 1
-  education1: Ph.D. candidate, Sun Yat-sen University
 
-- name: Yuqi Zhu
-  photo: yuqizhu.png
-  info: Ph.D. candidate (co-supervised)
-  # email: zhuyq68@mail2.sysu.edu.cn
+- name: Yixiao Zhu
+  photo: yixiaozhu.png
+  info: M.S. candidate (co-supervised)
+  # email: zhuyx55@mail2.sysu.edu.cn
   number_educ: 1
-  education1: Ph.D. candidate, Sun Yat-sen University
+  education1: M.S. candidate, Sun Yat-sen University
 
 # 研究生一年级
 - name: Shuai Li
