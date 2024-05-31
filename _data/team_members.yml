@@ -1,22 +1,90 @@
-- name: Ilse Kuijf
-  photo: ilse.jpeg
+- name: Qi Fan
+  photo: rock.jpg
   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
+  # email: Bastiaans@Physics.LeidenUniv.nl
   number_educ: 1
   education1: Master Leiden University
 
+- name: Ao Shen
+  photo: aoshen.png
+  info: Postdocs
+  # email: shenao7@mail.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D., Sun Yat-sen University
+
+- name: Yinbao Jin
+  photo: yinbaojin.png
+  info: Ph.D. candidate
+  # email: jinyb3@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
 - name: Haofan Wang
-  photo: ilse.jpeg
-  info: Ph.D. candidate (co-supervised)
+  photo: haofanwang.png
+  info: Ph.D. candidate
   # email: Bastiaans@Physics.LeidenUniv.nl
   number_educ: 1
   education1: Ph.D. candidate, Sun Yat-sen University
-  education2: MS (2019-2022), Chengdu University of Information Technology
-  education3: BS (2015-2019), Southwest Jiaotong University
+
+- name: Jingyu Li
+  photo: jinyuli.png
+  info: Ph.D. candidate (co-supervised)
+  # email: lijy359@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+- name: Yuqi Zhu
+  photo: rock.jpg
+  info: Ph.D. candidate (co-supervised)
+  # email: zhuyq68@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+- name: Siting Li
+  photo: sitingli.png
+  info: M.S. candidate
+  # email: list23@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
+
+- name: Yifei Xu
+  photo: yifeixu.png
+  info: M.S. candidate
+  # email: xuyf36@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
+
+- name: Shuai Li
+  photo: shuaili.png
+  info: M.S. candidate (co-supervised)
+  # email: lish325@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
+
+- name: Wenjing Deng
+  photo: wenjingdeng.png
+  info: M.S. candidate (co-supervised)
+  # email: dengwj56@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
+
+- name: Xinyu Xi
+  photo: xinyuxi.png
+  info:  M.S. candidate
+  # email:xixy3@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
+
+- name: Yuxuan Huang
+  photo: yuxuanhuang.png
+  info: M.S. candidate
+  # email: huangyx379@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: M.S. candidate, Sun Yat-sen University
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  # info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
   education1:
