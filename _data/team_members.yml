@@ -1,3 +1,4 @@
+# 老师
 - name: Qi Fan
   photo: rock.jpg
   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
@@ -5,6 +6,7 @@
   number_educ: 1
   education1: Master Leiden University
 
+# 博后
 - name: Ao Shen
   photo: aoshen.png
   info: Postdocs
@@ -12,6 +14,7 @@
   number_educ: 1
   education1: Ph.D., Sun Yat-sen University
 
+# 博士三年级
 - name: Yinbao Jin
   photo: yinbaojin.png
   info: Ph.D. candidate
@@ -19,6 +22,7 @@
   number_educ: 1
   education1: Ph.D. candidate, Sun Yat-sen University
 
+# 博士二年级
 - name: Haofan Wang
   photo: haofanwang.png
   info: Ph.D. candidate
@@ -26,20 +30,7 @@
   number_educ: 1
   education1: Ph.D. candidate, Sun Yat-sen University
 
-- name: Jingyu Li
-  photo: jinyuli.png
-  info: Ph.D. candidate (co-supervised)
-  # email: lijy359@mail2.sysu.edu.cn
-  number_educ: 1
-  education1: Ph.D. candidate, Sun Yat-sen University
-
-- name: Yuqi Zhu
-  photo: rock.jpg
-  info: Ph.D. candidate (co-supervised)
-  # email: zhuyq68@mail2.sysu.edu.cn
-  number_educ: 1
-  education1: Ph.D. candidate, Sun Yat-sen University
-
+# 研究生三年级
 - name: Siting Li
   photo: sitingli.png
   info: M.S. candidate
@@ -54,6 +45,22 @@
   number_educ: 1
   education1: M.S. candidate, Sun Yat-sen University
 
+# 研究生二年级
+- name: Jingyu Li
+  photo: jinyuli.png
+  info: Ph.D. candidate (co-supervised)
+  # email: lijy359@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+- name: Yuqi Zhu
+  photo: rock.jpg
+  info: Ph.D. candidate (co-supervised)
+  # email: zhuyq68@mail2.sysu.edu.cn
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+# 研究生一年级
 - name: Shuai Li
   photo: shuaili.png
   info: M.S. candidate (co-supervised)
