@@ -34,7 +34,7 @@ Our research group will be focusing on a wide range of topics on atmospheric che
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yifeixu_pa_case.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yifeixu_pa_case.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yifeixu_pa_case.png" alt="Slide 3" />
