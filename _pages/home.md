@@ -14,6 +14,8 @@ Our research group will be focusing on a wide range of topics on atmospheric che
 
 - Source, chemistry, transport, and sink of air pollutants
 
+- Atmospheric chemistry, climate, and climate change
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
