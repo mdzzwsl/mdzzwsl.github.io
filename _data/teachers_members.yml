@@ -1,0 +1,29 @@
+# 老师
+- name: Qi Fan
+  photo: rock.jpg
+  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
+  # email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Leiden University
+
+# - name: 
+#   # photo: rock.jpg
+#   info: 
+#   # email: Bastiaans@Physics.LeidenUniv.nl
+#   number_educ: 0
+#   education1: Master Leiden University
+
+- name: Xiao Lu
+  photo: rock.jpg
+  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
+  # email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Leiden University
+
+- name: Yiming Liu
+  photo: rock.jpg
+  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
+  # email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Leiden University
+

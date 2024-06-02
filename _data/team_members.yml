@@ -1,11 +1,3 @@
-# 老师
-- name: Qi Fan
-  photo: rock.jpg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  # email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
-
 # 博后
 - name: Ao Shen
   photo: aoshen.png

@@ -6,17 +6,17 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Qi Fan's group has published _xx_ peer-reviewed research articles (team members as first/corresponding author) since its born from _May 2021_.**
+**Qi Fan's group has published _xx_ peer-reviewed research articles (team members as first/corresponding author) since its born from _May 2020_.**
 
 **Qi Fan has published over _xx_ peer-reviewed research articles (_xx_ as first/corresponding author, _xx_ SCI).**
 
-(* Corresponding author; # co-first author；Group members are shown in bold )
+(* Corresponding author; # co-first author)
 
 # Publication list
 
 **2024 (xx)**
 
-1. **Yuqi Zhu**，**Yiming Liu<sup>*</sup>**, **Siting Li**, Haolin Wang, Xiao Lu, Haichao Wang, Chong Shen, **Xiaoyang Chen**, Pakwai Chan, **Ao Shen**, **Haofan Wang**, **Yinbao Jin**, **Yifei Xu**, Shaojia Fan, **Qi Fan<sup>*</sup>**. Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. Science of the Total Environment.  906 (2024) 167485.
+1. **Yuqi Zhu**，**Yiming Liu<sup>*</sup>**, Siting Li, Haolin Wang, Xiao Lu, Haichao Wang, Chong Shen, Xiaoyang Chen, Pakwai Chan, **Ao Shen**, **Haofan Wang**, **Yinbao Jin**, **Yifei Xu**, Shaojia Fan, **Qi Fan<sup>*</sup>**. Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions. Science of the Total Environment.  906 (2024) 167485.
 
 **2023 (xx)**
 

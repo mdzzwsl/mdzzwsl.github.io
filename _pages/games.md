@@ -1,9 +1,9 @@
 ---
-title: "Qi Fan's Group - Publications"
+title: "Qi Fan's Group - Games"
 layout: gridlay
-excerpt: "Qi Fan's Group -- Publications."
+excerpt: "Qi Fan's Group -- Games."
 sitemap: false
-permalink: /resources/
+permalink: /games/
 ---
 
 
